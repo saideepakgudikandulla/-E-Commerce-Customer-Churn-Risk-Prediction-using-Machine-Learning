@@ -123,10 +123,13 @@ Boxplots for 📱 preferred_device and 💳 payment_method
 
 🚀 How to Run
 
-Clone the repository:
+Clone the repository:<img width="760" height="485" alt="Screenshot 2026-02-08 at 12 37 58 AM" src="https://github.com/user-attachments/assets/18fca203-1ead-4a29-b0f0-984ec6850361" />
+<img width="633" height="286" alt="Screenshot 2026-02-08 at 12 37 47 AM" src="https://github.com/user-attachments/assets/26324bdf-2fa6-428f-88a3-7850cf0acb1c" />
+
 
 git clone https://github.com/yourusername/ecommerce-churn-ml.git
 cd ecommerce-churn-ml
+<img width="635" height="677" alt="Screenshot 2026-02-08 at 12 38 40 AM" src="https://github.com/user-attachments/assets/62ac84b7-0c88-4952-be61-0774c85423f6" />
 
 
 Install dependencies:
